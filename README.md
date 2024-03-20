@@ -2,7 +2,6 @@
 
   
 
-![PrototipoApp (3)](https://github.com/FISH-INOS/PrototipoApp/assets/125999178/250cd005-724c-4078-b070-03f0546f4b84)
 ![PrototipoApp (2)](https://github.com/FISH-INOS/PrototipoApp/assets/125999178/4aa74861-e0da-4fc4-bb3f-713f89955b8c)
 ![PrototipoApp (1)](https://github.com/FISH-INOS/PrototipoApp/assets/125999178/697d547c-fbf1-4112-8b4c-8faeffb2ed35)
 
